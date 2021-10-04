@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#a8324e 0%, #a8329e 100%);
+}
+.line{
+    height: 6px;
+    background-color: #0d0c0c;
+    width: 70px;
+    margin: 8px auto;
+}
+#curriculam {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
